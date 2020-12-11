@@ -7,10 +7,7 @@
 
   <ItemGroup>
     <Folder Include="Behavioral\" />
-    <Folder Include="Creational\Abstract Factory\" />
-    <Folder Include="Creational\Factory Method\" />
-    <Folder Include="Creational\Singleton\" />
-    <Folder Include="Structural\" />
+    <Folder Include="Structural\Adapter\" />
   </ItemGroup>
 
 </Project>
