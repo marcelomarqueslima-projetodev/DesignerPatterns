@@ -35,6 +35,10 @@ namespace ModelsPatterns
             Console.WriteLine("8 - Strategy");
             Console.WriteLine("9 - Observer");
             Console.WriteLine("------------------------");
+            Console.WriteLine("Finalizar a Aplicação");
+            Console.WriteLine("------------------------");
+            Console.WriteLine("0 - Sair");
+            Console.WriteLine("------------------------");
 
             var opcao = Console.ReadKey();
 
@@ -70,6 +74,9 @@ namespace ModelsPatterns
                     break;
                 case '9':
                     ExecucaoObserver.Executar();
+                    break;
+                case '0':
+                    Environment.Exit(0);
                     break;
             }
 
