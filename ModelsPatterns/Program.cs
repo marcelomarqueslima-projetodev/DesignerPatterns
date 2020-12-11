@@ -1,4 +1,13 @@
 ﻿using System;
+using ModelsPatterns.Behavioral.Command;
+using ModelsPatterns.Behavioral.Observable;
+using ModelsPatterns.Behavioral.Strategy;
+using ModelsPatterns.Creational.Abstract_Factory;
+using ModelsPatterns.Creational.Factory_Method;
+using ModelsPatterns.Creational.Singleton;
+using ModelsPatterns.Structural.Adapter;
+using ModelsPatterns.Structural.Composite;
+using ModelsPatterns.Structural.Facade;
 
 namespace ModelsPatterns
 {

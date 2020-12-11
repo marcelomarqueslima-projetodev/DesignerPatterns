@@ -1,4 +1,6 @@
 ﻿using System;
+using ModelsPatterns.Structural.Facade.CrossCutting;
+using ModelsPatterns.Structural.Facade.Domain;
 
 namespace ModelsPatterns.Behavioral.Strategy
 {

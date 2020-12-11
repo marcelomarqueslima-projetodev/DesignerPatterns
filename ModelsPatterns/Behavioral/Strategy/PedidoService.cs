@@ -1,4 +1,6 @@
-﻿namespace ModelsPatterns.Behavioral.Strategy
+﻿using ModelsPatterns.Structural.Facade.Domain;
+
+namespace ModelsPatterns.Behavioral.Strategy
 {
     public class PedidoService
     {

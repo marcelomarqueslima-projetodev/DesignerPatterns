@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using ModelsPatterns.Structural.Facade.CrossCutting;
+using ModelsPatterns.Structural.Facade.Domain;
 
 namespace ModelsPatterns.Structural.Facade
 {

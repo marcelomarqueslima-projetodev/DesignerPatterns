@@ -1,4 +1,6 @@
-﻿namespace ModelsPatterns.Structural.Facade.Domain
+﻿using ModelsPatterns.Structural.Facade.CrossCutting;
+
+namespace ModelsPatterns.Structural.Facade.Domain
 {
     public class PagamentoCartaoCreditoFacade : IPagamentoCartaoCreditoFacade
     {

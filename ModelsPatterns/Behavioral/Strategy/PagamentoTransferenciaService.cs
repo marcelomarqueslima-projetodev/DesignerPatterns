@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using ModelsPatterns.Structural.Facade.Domain;
 
 namespace ModelsPatterns.Behavioral.Strategy
 {
